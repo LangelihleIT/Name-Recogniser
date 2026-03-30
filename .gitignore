@@ -1,0 +1,6 @@
+Make sure it contains:
+```
+venv/
+__pycache__/
+*.pyc
+*.wav
